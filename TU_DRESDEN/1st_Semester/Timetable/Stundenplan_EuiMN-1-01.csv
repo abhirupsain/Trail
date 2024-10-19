@@ -1,0 +1,74 @@
+﻿"Stand: 11.10.24";"Wintersemester 2024/2025";"(01.10.2024 -30.03.2025)";"Seminargruppe: EuiMN-1-01";"Aktuelle KW:";"=KÜRZEN((HEUTE()-DATUM(JAHR(HEUTE()+3-REST(HEUTE()-2;7));1;REST(HEUTE()-2;7)-9))/7)"
+;Montag;Dienstag;Mittwoch;Donnerstag;Freitag
+"1.DS 
+ 07:30 - 09:00";;;;"Fetzer
+E Confidential Computing
+APB/E023/U";;
+"1.DS 
+ 07:30 - 09:00";;;;"Fetzer
+E Confidential Computing
+APB/E023/U";;
+"2.DS 
+ 09:20 - 10:50";;"Schroedter, Richard
+L Neural Networks and Memristive Hardware Accelerators
+TOE/0317/H";"Fetzer
+L Confidential Computing
+GER/0038/H";"Mannsfeld, Stefan
+L Semiconductor Technology 1
+SCH/A118/H";"Knoll, Carsten
+Ü Python für Ing
+TOE/0317/H (am 22.11.24 einmalig im GÖR/127/U)";
+"2.DS 
+ 09:20 - 10:50";;"Schroedter, Richard
+L Neural Networks and Memristive Hardware Accelerators
+TOE/0317/H";"Fetzer
+L Confidential Computing
+GER/0038/H";"Mannsfeld, Stefan
+L Semiconductor Technology 1
+SCH/A118/H";"Knoll, Carsten
+Ü Python für Ing
+TOE/0317/H (am 22.11.24 einmalig im GÖR/127/U)";
+"3.DS 
+ 11:10 - 12:40";"Fetzer
+L Systems Engineering 1
+APB/E023/U";;;;"Fetzer
+E Systems Engineering 1
+APB/E023/U";
+"3.DS 
+ 11:10 - 12:40";"Fetzer
+L Systems Engineering 1
+APB/E023/U";;;;"Fetzer
+E Systems Engineering 1
+APB/E023/U";
+"4.DS 
+ 13:00 - 14:30";;"Mannsfeld, Stefan
+L Semiconductor Technology 1
+TOE/0317/H";;;;
+"4.DS 
+ 13:00 - 14:30";;"Mannsfeld, Stefan
+L Semiconductor Technology 1
+TOE/0317/H";;;;
+"5.DS 
+ 14:50 - 16:20";;"Göhringer
+E Hardware Modelling and Simulation
+APB/E006/U";;;;
+"5.DS 
+ 14:50 - 16:20";;"Göhringer
+E Hardware Modelling and Simulation
+APB/E006/U";;;;
+"6.DS 
+ 16:40 - 18:10";"Göhringer
+L Hardware Modelling and Simulation
+MER/0002/H";;;;;
+"6.DS 
+ 16:40 - 18:10";"Göhringer
+L Hardware Modelling and Simulation
+MER/0002/H";;;;;
+"7.DS 
+ 18:30 - 20:00";;;;;;
+"7.DS 
+ 18:30 - 20:00";;;;;;
+"8.DS 
+ 20:20 - 21:50";;;;;;
+"8.DS 
+ 20:20 - 21:50";;;;;;

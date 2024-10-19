@@ -1,0 +1,10 @@
+# Dieses Skript geht davon aus, dass auf dem eigenen Rechner schon die Anaconda-Distribution installiert ist.
+# siehe: https://docs.conda.io/en/latest/miniconda.html (ca. 60 MB) oder https://www.anaconda.com/distribution/ (ca. 470 MB)
+# Die folgenden Befehle sind aus dem Anaconda-Prompt auszuführen, erkennbar daran,
+# dass "(base)" am Beginn der Eingabeaufforderung steht.
+
+# - Installation benötigter Zusatzpakete
+pip install numpy scipy matplotlib notebook ipywidgets symbtools ipydex
+pip install spyder
+
+
